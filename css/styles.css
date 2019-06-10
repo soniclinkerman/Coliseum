@@ -1,0 +1,55 @@
+
+body {
+  text-align: center;
+}
+
+#top {
+  padding-bottom: 100px;
+}
+
+h2 {
+  font-weight: 400;
+}
+
+.feature-box {
+  padding: 7%;
+  text-align: center;
+}
+
+
+.navbar-brand {
+  padding-left: 20px;
+}
+
+.icon {
+  margin-left: 10px;
+}
+
+.icon2 {
+  width: 30%;
+}
+
+.mock-row {
+  padding: 7%;
+  text-align:center;
+}
+
+#main {
+  background-color: #F8F9FA;
+}
+
+
+.mock {
+  width: 100%;
+}
+.card {
+  text-align: center;
+}
+
+.info {
+  padding: 5%
+}
+
+.sheild {
+  margin-bottom: 20px;
+}
